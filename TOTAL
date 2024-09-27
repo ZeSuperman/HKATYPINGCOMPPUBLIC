@@ -1,0 +1,5 @@
+from tkinter import*
+
+rook=Tk()
+root.title("HKA 2ND TYPING COMPETITION")
+root.iconbitmap(
